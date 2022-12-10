@@ -14,23 +14,16 @@ const About = () => {
           </div>
   
           <p className="text-xl mt-12">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-            deserunt illum mollitia officiis qui exercitationem perferendis neque
-            quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-            iste, totam fugiat recusandae rerum laborum perferendis molestiae
-            aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-            ab mollitia voluptatibus, a nostrum eveniet laborum!
+          I’m a Front End Web developer. I am passionate about learning and teaching As much as possible,
+          I share my knowledge with others. Solving real-world problems is one of my favorite things to do. Throughout my career, I have always been strategic and goal-oriented A clear idea of the end goal.
+          <br />
+          <br />
+          Most of the time I work with React but some technologies I enjoy working with include Redux, JavaScript as well as TypeScript.
           </p>
   
           <br />
   
           <p className="text-xl">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-            pariatur, vel similique sint, nobis aspernatur ut praesentium
-            explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-            quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-            Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-            magni quo! Eum cupiditate debitis labore.
           </p>
         </div>
       </div>
