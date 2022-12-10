@@ -4,7 +4,7 @@ import css from "../../../src/assets/portfolio/css.png";
 import javascript from "../../assets/portfolio/javascript.png";
 import reactImage from "../../assets/portfolio/react.png";
 import nextjs from '../../../src/assets/portfolio/nextjs.png'
-import graphql from "../../../src/assets/portfolio/graphql.png";
+
 import github from "../../../src/assets/portfolio/github.png";
 import tailwind from "../../../src/assets/portfolio/tailwind.png";
 
